@@ -1,5 +1,9 @@
 ![macintosh apps cover](https://github.com/user-attachments/assets/07deb118-e0c3-499c-9909-9964b2888701)
 
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/commits/main)
+<!-- badges:end -->
+
 Welcome to Macintosh Apps, a curated collection of beautifully designed, high quality applications for macOS. This directory is ad-free, providing an unbiased platform to explore the best of what macOS has to offer. Our goal is to help you discover incredible software to enhance your productivity, creativity, and everyday workflows.
 
 Developers are welcome to contribute—you are encouraged to submit a pull request to add your app to the directory. We've also integrated comments using [Giscus](https://giscus.app) so users can share their experiences and engage in conversations with others. **A GitHub account is required to comment.**
