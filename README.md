@@ -1,7 +1,7 @@
 ![macintosh apps cover](https://github.com/user-attachments/assets/07deb118-e0c3-499c-9909-9964b2888701)
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/commits/main)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/commits/main) [![License](https://img.shields.io/github/license/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/blob/main/LICENSE) [![Language](https://img.shields.io/github/languages/top/monkey-sking/macintoshapps?style=flat-square)](https://github.com/monkey-sking/macintoshapps/search?l=)
 <!-- badges:end -->
 
 Welcome to Macintosh Apps, a curated collection of beautifully designed, high quality applications for macOS. This directory is ad-free, providing an unbiased platform to explore the best of what macOS has to offer. Our goal is to help you discover incredible software to enhance your productivity, creativity, and everyday workflows.
